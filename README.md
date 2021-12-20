@@ -1,4 +1,5 @@
 # ATRT_project
+Genetic dependencies of ATRT cells
 
 This repository contains examplary code to analyse CRISPR/Cas9 screens performed with the genome-wide knockout library Brunello.
 
