@@ -1,0 +1,4 @@
+sample	baseline	CHLA06_drug_common
+CHLA06_DMSO	1	0
+CHLA06_Palbo	1	1
+CHLA06_Abema	1	1

@@ -1,0 +1,4 @@
+sample	baseline	BT16_drug_common
+Plasmid	1	0
+CHLA06_Palbo	1	1
+CHLA06_Abema	1	1
