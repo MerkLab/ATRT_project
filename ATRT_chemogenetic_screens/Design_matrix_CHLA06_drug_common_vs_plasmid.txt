@@ -1,4 +1,4 @@
-sample	baseline	BT16_drug_common
+sample	baseline	CHLA06_drug_common_vs_plasmid
 Plasmid	1	0
 CHLA06_Palbo	1	1
 CHLA06_Abema	1	1
